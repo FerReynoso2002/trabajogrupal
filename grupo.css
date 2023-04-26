@@ -206,6 +206,14 @@
         display: block;
         width: 190%;
     }
+    .sitioweb{
+        display: block;
+    }
+
+    .sitioweb h1{
+        display: block;
+        width: 100%;
+    }
 
 }
 
